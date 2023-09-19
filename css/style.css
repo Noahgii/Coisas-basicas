@@ -1,0 +1,41 @@
+body{
+    background-color: violet;
+}
+nav{
+   color: black;
+   background-color: white;
+}
+a{
+    margin-right: 1rem;
+    
+}
+img{
+    width: 40%;
+    height: 40%;
+     margin: 20px;
+    border-radius: 10px;
+    border: 5px solid black;
+    float: right;
+}
+
+h1{
+    font-size: 4rem;
+}
+h2{
+    font-size: 3rem;
+}
+p{
+    font-size: 20px;
+}
+
+footer{
+    bottom: 0;
+    position: fixed;
+    width: 90%;
+    text-align: right;
+    
+}
+
+header{
+font-size: 1.5rem;    
+}
